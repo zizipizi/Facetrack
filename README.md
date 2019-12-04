@@ -1,5 +1,5 @@
 # Facetrack
 
-Facetrack with intel real sense SDK to UE4 via OSC done in 1 day and not fully tested, but works fine and completed for one day event.
+Facetrack with intel real sense SDK to UE4 via OSC done in 1 day. For work, need the intel real sense camera SR300 or D400.
 
-![img](FaceTrack.PNG)
+![InWork](FaceTrack.PNG)
